@@ -8,7 +8,7 @@ public class anmeldung
 	
 	public anmeldung(String benutzername, Passwort passwort)
 	{
-		this.benutzername=benutzername;
+		this.benutzername = benutzername;
 		this.passwort=passwort;
 	}
 

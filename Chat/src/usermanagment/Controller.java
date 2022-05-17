@@ -51,7 +51,7 @@ public class Controller
 		 * 
 		 * => stimmt => ANMELDUNG OK
 		 * => stimmt nicht => Meldung "Anmeldung fehlerhaft" => SOCKET.close
-		 * 
+		 
 		 * */
 		
 	}

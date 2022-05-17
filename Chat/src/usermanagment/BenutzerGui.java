@@ -58,7 +58,8 @@ public class BenutzerGui
 		frame.getContentPane().add(getBtnNewButton());
 		frame.setVisible(true);
 	}
-	private JLabel getLblNewLabel() {
+	private JLabel getLblNewLabel()
+	{
 		if (lblNewLabel == null) {
 			lblNewLabel = new JLabel("Name");
 			lblNewLabel.setBounds(10, 11, 46, 14);

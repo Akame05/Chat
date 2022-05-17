@@ -13,7 +13,7 @@ public class Registrieren
 	
 	public Registrieren(String name, String nachname, String email, int nummer, Passwort passwort, String benutzername)
 	{
-		this.name=name;
+		this.name = name;
 		this.nachname=nachname;
 		this.email=email;
 		this.nummer=nummer;
